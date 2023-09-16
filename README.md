@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iamankusingh
 - 👀 I’m interested in ... coding and designing
 - 🌱 I’m currently learning ... html, css, javascript, python and c language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... insta: @iamankusingh
 
 <!---
