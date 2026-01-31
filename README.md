@@ -7,10 +7,12 @@ I'm a Computer Science Student of KSKV Kachchh University...
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, ThreeJs, C++, Python.
+HTML, CSS, Javascript, C++, Python, Php
 ## Tech Stack
 
-**Client:** React, TailwindCSS
+**Client:** React, TailwindCSS, ThreeJs
 
-**Server:** NodeJs, NextJs
+**Server:** NodeJs, NextJs, Laravel
+
+**Database:** MongoDB, MySQL
 
